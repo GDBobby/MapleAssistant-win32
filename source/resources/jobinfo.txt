@@ -1,0 +1,99 @@
+Bowmaster
+90
+Hurricane 100 1
+Inferno 160 1
+55
+100
+100 100 100 100
+
+Marksman
+90
+Strafe 100 4
+Snipe 99999 1
+Pierce 850 1
+55
+100
+100 100 100 100
+
+DarkKnight
+80
+Crusher 170 3
+Fury 260 1
+0
+0
+200 100 100 100
+
+Hero
+60
+Brandish 260 2
+0
+0
+190 100 100 100
+
+Paladin
+60
+Blast 550 1
+AdvancedChargeBlow 350 1
+0
+0
+140 125 120 105
+
+IceLightning
+60
+ChainLightning 210 1
+Blizzard 620 1
+0
+0 
+140 100 100 100
+
+FirePoison
+60
+Paralyze 240 1
+MeteorShower 620 1
+0
+0
+140 100 100 100
+
+Bishop
+60
+AngelRay 240 1
+Genesis 670 1
+0
+0
+100 100 100 100
+
+Shadower
+60
+Assassinate 750 3
+BoomerangStep 500 2
+BoT 250 1
+0
+0
+100 100 100 100
+
+NightLord
+60
+TripleThrow 150 3
+Avenger 180 1
+50
+100
+150 100 100 100
+
+Buccaneer
+60
+Demolition 400 5
+Barrage 230 6
+DragonStrike 810 1
+Snatch 600 1
+0
+0
+100 100 100 100
+
+Corsair
+60
+BattleshipCannon 380 4
+RapidFire 200 1
+Torpedo 780 1
+0
+0
+120 100 100 100
